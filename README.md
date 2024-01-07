@@ -145,3 +145,12 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
+
+* Extra Credit:
+Developer Option: Pointer location
+The pointer location is a debugging feature that displays information about touch events on the
+device's screen. It gives real-time information regarding the movement, position and other details
+of touch events on the device. This can be useful this quarter when I need to troubleshoot and debug
+touch-related issues in a app and understand information about how touch events are being processed by 
+the device. This is also useful for inspecting UI elements visually and testing how the apps respond
+to multiple touch points.
